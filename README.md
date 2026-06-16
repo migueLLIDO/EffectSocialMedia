@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ícones Sociais com Efeito Neumorphism
 
 Barra de ícones de redes sociais com efeito visual de profundidade e animação no hover.
@@ -51,3 +52,58 @@ Configuração recomendada:
 - HTML5
 - CSS3
 - Font Awesome
+=======
+# Ícones Sociais com Efeito Neumorphism
+
+Barra de ícones de redes sociais com efeito visual de profundidade e animação no hover.
+
+Este projeto é uma demonstração estática feita com **HTML e CSS**, pensada para funcionar diretamente no navegador e poder ser publicada com **GitHub Pages**.
+
+## Funcionalidades
+
+- ícones Font Awesome
+- efeito neumorphism nos botões
+- animação de escala no hover
+- cores por rede social
+
+## Estrutura do projeto
+
+- `css/style.css`
+- `img/icone.png`
+- `index.html`
+
+## Visual
+
+O projeto usa fundo cinza claro com sombras internas e externas.
+
+## Como executar
+
+1. Clone ou baixe este repositório.
+2. Abra o arquivo `index.html` diretamente no navegador.
+3. Se preferir usar um servidor local, execute na pasta do projeto:
+
+```bash
+python -m http.server 8000
+```
+
+Depois acesse:
+
+```text
+http://localhost:8000
+```
+
+## GitHub Pages
+
+Como este projeto é estático, ele pode ser publicado no GitHub Pages usando a branch principal.
+
+Configuração recomendada:
+
+- Branch: `main`
+- Pasta: `/ (root)`
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- Font Awesome
+>>>>>>> b821a81 (Add README for EffectSocialMedia)
